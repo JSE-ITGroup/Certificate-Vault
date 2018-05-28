@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "JCSD Certificate Vault Summary";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>JCSD Certificate Vault Summary</h2>
+@using (Html.BeginForm("DownloadJCSDCertificateVaultReport", "Reports"))
+{
+    <p>
+        @Html.DropDownList("Symbol",(IEnumerable<SelectListItem>)ViewBag.Symbols,"SELECT SYMBOL",htmlAttributes: new { @class = "form-control" })
+        @Html.DropDownList("ClientName", (IEnumerable<SelectListItem>)ViewBag.Client,"SELECT CLIENT", htmlAttributes: new { @class = "form-control" })
+        @Html.DropDownList("Status", (IEnumerable<SelectListItem>)ViewBag.Status,"SELECT STATUS", htmlAttributes: new { @class = "form-control" })
+        @Html.DropDownList("CertificateNumber", (IEnumerable<SelectListItem>)ViewBag.CertificateNumber,"SELECT CERTIFICATENUMBER", htmlAttributes: new { @class = "form-control" })
+        @Html.DropDownList("VaultName", (IEnumerable<SelectListItem>)ViewBag.Vaults,"SELECT VAULTS", htmlAttributes: new { @class = "form-control" })
+        <input type="submit" value="Download Report" />
+    </p>
+
+    
+}

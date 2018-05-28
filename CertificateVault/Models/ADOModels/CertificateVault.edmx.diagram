@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="38f867d53be94d90bd1617b44c2e7dcf" Name="Diagram1">
+        <EntityTypeShape EntityType="CertificateVaultModel.C__MigrationHistory" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CertificateVaultModel.AspNetRole" Width="1.5" PointX="7.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CertificateVaultModel.AspNetUserClaim" Width="1.5" PointX="12.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="CertificateVaultModel.AspNetUserLogin" Width="1.5" PointX="12.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CertificateVaultModel.AspNetUser" Width="1.5" PointX="10" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CertificateVaultModel.Certificate" Width="1.5" PointX="5.25" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CertificateVaultModel.Client" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CertificateVaultModel.User" Width="1.5" PointX="0.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CertificateVaultModel.Vault" Width="1.5" PointX="3" PointY="5.625" IsExpanded="true" />
+        <AssociationConnector Association="CertificateVaultModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="CertificateVaultModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="CertificateVaultModel.FK__Certifica__Vault__09DE7BCC" ManuallyRouted="false" />
+        <AssociationConnector Association="CertificateVaultModel.FK__Clients__Created__1273C1CD" ManuallyRouted="false" />
+        <AssociationConnector Association="CertificateVaultModel.FK__Clients__Updated__1367E606" ManuallyRouted="false" />
+        <AssociationConnector Association="CertificateVaultModel.FK__Vaults__CreatedB__0CBAE877" ManuallyRouted="false" />
+        <AssociationConnector Association="CertificateVaultModel.FK__Vaults__UpdatedB__0DAF0CB0" ManuallyRouted="false" />
+        <AssociationConnector Association="CertificateVaultModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

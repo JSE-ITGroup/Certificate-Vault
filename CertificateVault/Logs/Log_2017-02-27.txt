@@ -1,0 +1,9 @@
+2017-02-27 10:55:36 [115] ERROR [CertificateVault.Controllers.VaultsController] [(null)] - AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+VaultVM -> Vault
+CertificateVault.Models.ViewModels.VaultVM -> CertificateVault.Models.ADOModels.Vault
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at AutoMapper.Mapper.AutoMapper.IMapper.Map[TDestination](Object source)
+   at AutoMapper.Mapper.Map[TDestination](Object source)
+   at CertificateVault.Controllers.VaultsController.<Create>d__6.MoveNext() in C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\Controllers\VaultsController.cs:line 78

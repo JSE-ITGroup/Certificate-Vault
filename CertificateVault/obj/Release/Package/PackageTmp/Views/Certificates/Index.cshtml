@@ -1,0 +1,157 @@
+﻿@model IEnumerable<CertificateVault.Models.ViewModels.CertificateVM>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table" id="example">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MemberID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Volume)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedAt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApprovedAt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApprovedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WithdrawRequestAt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WithdrawRequestBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WithdrawApprovedAt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WithdrawApprovedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UpdatedAt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Client)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ClientId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Vault.Name)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+<tbody>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MemberID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Volume)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedAt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApprovedAt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApprovedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WithdrawRequestAt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WithdrawRequestBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WithdrawApprovedAt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WithdrawApprovedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UpdatedAt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Client)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ClientId)
+        </td>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.Vault.Name)*@
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+    </tbody>
+</table>
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('#example').dataTable({
+                "processing": true,
+                "serverSide": true,
+                "info": true,
+                "stateSave": true,
+                "lengthMenu": [[10, 20, 50, -1], [10, 20, 50, "All"]],
+                "ajax":{
+                    "url": "@string.Format("{0}://{1}{2}", Request.Url.Scheme, Request.Url.Authority, Url.Content("~"))/Certificates/Index",
+            "type": "GET"
+        },
+             "columns": [
+                 { "data": "MemberId", "orderable" : true },
+                 { "data": "Volume", "orderable": false },
+                 { "data": "Status", "orderable": true },
+                 { "data": "CreatedAt", "orderable": true },
+                 { "data": "CreatedBy", "orderable": true },
+                 { "data": "ApporvedAt", "orderable": true },
+                 { "data": "ApporvedBy", "orderable": true },
+                 { "data": "WithdrawRequestAt", "orderable": true },
+                 { "data": "WithdrawRequestAt", "orderable": true },
+                 { "data": "WithdrawRequestBy", "orderable": true },
+                 { "data": "WithdrawApprovedAt", "orderable": true },
+                 { "data": "WithdrawApporvedBy", "orderable": true },
+                 { "data": "UpdatedAt", "orderable": true },
+                 { "data": "Client", "orderable": true },
+                 { "data": "ClientId", "orderable": true },
+                 { "data": "Name", "orderable": true },
+
+             ],
+             "order": [[0, "asc"]]
+        });
+        });
+    </script>
+    }

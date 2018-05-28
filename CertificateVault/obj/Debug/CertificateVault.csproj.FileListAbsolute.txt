@@ -1,0 +1,297 @@
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\obj\Debug\CertificateVault.csprojResolveAssemblyReference.cache
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\obj\Debug\CertificateVault.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\obj\Debug\CertificateVault.pdb
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\ApplicationInsights.config
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\csc.exe
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\vbc.exe
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CertificateVault.dll.config
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CertificateVault.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CertificateVault.pdb
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Antlr3.Runtime.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\AutoMapper.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\EntityFramework.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\EntityFramework.SqlServer.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.Web.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Newtonsoft.Json.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Owin.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Helpers.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Mvc.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Optimization.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Razor.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\WebGrease.dll
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\AutoMapper.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.Web.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Helpers.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Mvc.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Optimization.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Razor.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Antlr3.Runtime.pdb
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Newtonsoft.Json.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\EntityFramework.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\EntityFramework.SqlServer.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Xavie\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\ApplicationInsights.config
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\csc.exe
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\vbc.exe
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\VBCSCompiler.exe
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CertificateVault.dll.config
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CertificateVault.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CertificateVault.pdb
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Antlr3.Runtime.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\AutoMapper.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\EntityFramework.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\EntityFramework.SqlServer.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\log4net.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.Web.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.ApplicationInsights.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Newtonsoft.Json.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Owin.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Helpers.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Mvc.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Optimization.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Razor.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.Deployment.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.Razor.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\WebGrease.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\AutoMapper.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\log4net.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.Web.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.ApplicationInsights.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Helpers.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Mvc.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Optimization.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.Razor.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.Deployment.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\System.Web.WebPages.Razor.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Antlr3.Runtime.pdb
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Newtonsoft.Json.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\EntityFramework.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\EntityFramework.SqlServer.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\obj\Debug\CertificateVault.csprojResolveAssemblyReference.cache
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\obj\Debug\CertificateVault.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\obj\Debug\CertificateVault.pdb
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.Shared.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\stdole.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportSource.dll
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Rpts\JCSD Certificate Vault Summary.rpt
+C:\Users\au_xavier.watson\Documents\Visual Studio 2015\Projects\CertificateVault\CertificateVault\bin\Rpts\JCSD Certificate Vault Summary.cs
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\ApplicationInsights.config
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\csc.exe
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\vbc.exe
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\VBCSCompiler.exe
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Rpts\JCSD Certificate Vault Summary.rpt
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Rpts\JCSD Certificate Vault Summary.cs
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CertificateVault.dll.config
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CertificateVault.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CertificateVault.pdb
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Antlr3.Runtime.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\AutoMapper.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.Shared.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\EntityFramework.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\EntityFramework.SqlServer.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\log4net.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.Web.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.ApplicationInsights.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Newtonsoft.Json.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Owin.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.Helpers.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.Mvc.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.Optimization.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.Razor.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.WebPages.Deployment.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.WebPages.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.WebPages.Razor.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\WebGrease.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\stdole.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\AutoMapper.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\log4net.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.Web.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.ApplicationInsights.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.Helpers.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.Mvc.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.Optimization.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.Razor.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.WebPages.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.WebPages.Deployment.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\System.Web.WebPages.Razor.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Antlr3.Runtime.pdb
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Newtonsoft.Json.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\EntityFramework.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\EntityFramework.SqlServer.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\obj\Debug\CertificateVault.csprojResolveAssemblyReference.cache
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\obj\Debug\CertificateVault.csproj.CoreCompileInputs.cache
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\obj\Debug\CertificateVault.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\obj\Debug\CertificateVault.pdb
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\obj\Debug\CertificateVault.csproj.CopyComplete
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\PagedList.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\PagedList.Mvc.dll
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\PagedList.xml
+C:\Users\au_xavier.watson\source\repos\CertificateVault\CertificateVault\bin\PagedList.Mvc.xml
